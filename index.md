@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "There's no such thing as bad weather, just the wrong adventure planners"
+landing-title: "There's no such thing as bad weather,<br>just the wrong adventure planners"
 description: null
 image: null
 author: null
